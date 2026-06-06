@@ -1,0 +1,8 @@
+# String startswith() and endswith() methods
+
+s = "I am doing programming"
+
+print(s.startswith("I am"))  # True
+print(s.startswith("am"))  # False
+print(s.endswith("programming"))  # True
+print(s.endswith("program"))  # False
