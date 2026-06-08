@@ -1,4 +1,4 @@
-# List creation, insertion, and extension
+# List creation
 
 # 1. Using square brackets
 my_list = [1, 2, 3, 4, 5]
