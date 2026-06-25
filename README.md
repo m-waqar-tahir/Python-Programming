@@ -1,2 +1,2 @@
-# MyProjects
+# Programming Files
 Daily projects
